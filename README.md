@@ -9,4 +9,7 @@ Here Is the complete guide for Implementing this project
 3. Once you have the model, implement the main.py file in any python Integrated IDE such as Spyder, Pycharm etc.
 4. After the implementation when you run the file live camera will be opened and it will classify the face emotions
 
+
+
+
 Thank You!!
